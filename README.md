@@ -6,4 +6,4 @@ This requires the built in `time` and `random` module and `PyGame` which can be 
 
 Feel free to tinker the code and add features to it.
 
-Happy Coding :rocket
+Happy Coding 🚀
